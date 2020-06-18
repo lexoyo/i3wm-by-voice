@@ -1,0 +1,14 @@
+{
+  "name": "voice-commands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "voice2json-interpret.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-v3",
+  "dependencies": {
+    "i3wm": "^1.1.0"
+  }
+}

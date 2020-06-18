@@ -1,0 +1,81 @@
+l' ll
+navigateur nn aa vv ii gg aa tt oe rr
+haut au
+haut(2) au tt
+précédent pp rr ai ss ai dd an
+précédent(2) pp rr ai ss ai dd an tt
+dessous dd ee ss ou
+dessous(2) dd ee ss ou zz
+six ss ii
+six(2) ss ii ss
+six(3) ss ii zz
+gauche gg au ch
+gauche(2) gg au ch ee
+internet in tt ai rr nn ai
+droit dd rr ww aa
+droit(2) dd rr ww aa tt
+trois tt rr ww aa
+trois(2) tt rr ww aa zz
+ferme ff ai rr mm
+ferme(2) ff ai rr mm ee
+ouvre ou vv rr
+ouvre(2) ou vv rr ee
+dessus dd ee ss uu
+dessus(2) dd ee ss uu zz
+sept ss ai tt
+quatre kk aa tt rr
+quatre(2) kk aa tt rr ee
+bas bb aa
+bas(2) bb aa ss
+bas(3) bb aa zz
+bouge bb ou jj
+bouge(2) bb ou jj ee
+cinq ss in
+cinq(2) ss in kk
+fenêtre ff ee nn ai tt rr
+fenêtre(2) ff ee nn ai tt rr ee
+suivant ss uy ii vv an
+suivant(2) ss uy ii vv an tt
+neuf nn eu ff
+neuf(2) nn oe ff
+au au
+droite dd rr ww aa tt
+droite(2) dd rr ww aa tt ee
+écran ai kk rr an
+dix dd ii
+dix(2) dd ii kk ss
+dix(3) dd ii ss
+dix(4) dd ii zz
+cette ss ai tt
+cette(2) ss ai tt ee
+courrier kk ou rr yy ei
+pleine pp ll ai nn
+pleine(2) pp ll ai nn
+pleine(3) pp ll ai nn ee
+mail mm aa yy
+mail(2) mm ai yy ll
+terminal tt ai rr mm ii nn aa ll
+terminal(2) tt ai rr mm ii nn aa ll
+email ei mm aa yy
+open oo pp ai nn
+met mm ai
+met(2) mm ai tt
+huit uy ii
+huit(2) uy ii tt
+ouvrir ou vv rr ii rr
+sort ss oo rr
+le ll
+le(2) ll ee
+un un
+un(2) un nn
+un(3) uu nn
+en an
+en(2) an
+en(3) an nn
+deux dd eu
+deux(2) dd eu zz
+Test ai ss tt
+tab tt aa bb
+slack ss ll aa kk
+nav nn aa vv
+firefox ff ii rr ai ff oo kk ss

@@ -1,0 +1,7 @@
+language:
+  name: "french"
+  code: "fr"
+
+text-to-speech:
+  espeak:
+    voice: "fr"

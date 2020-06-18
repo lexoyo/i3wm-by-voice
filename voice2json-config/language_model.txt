@@ -1,0 +1,337 @@
+
+\data\
+ngram 1=47
+ngram 2=122
+ngram 3=155
+
+\1-grams:
+-99	<s>	-0.8241086
+-0.5139982	</s>
+-2.485944	Test	-0.2519422
+-1.481025	open	-0.2997265
+-1.481025	ouvrir	-0.2997265
+-1.003904	ouvre	-0.5296374
+-1.481025	le	-0.2997265
+-1.481025	l'	-0.2997265
+-1.685145	navigateur	-0.7759765
+-1.685145	internet	-0.7759765
+-1.685145	firefox	-0.7759765
+-1.685145	terminal	-0.7759765
+-1.685145	mail	-0.7759765
+-1.685145	email	-0.7759765
+-1.685145	courrier	-0.7759765
+-1.685145	slack	-0.7759765
+-2.485944	ferme	-0.2519422
+-2.485944	cette	-0.2519422
+-2.485944	fenêtre	-0.2519422
+-2.115287	met	-0.2839722
+-2.416317	sort	-0.2839721
+-2.416317	en	-0.2839721
+-1.939196	pleine	-0.5762152
+-1.283508	écran	-0.3302531
+-1.692978	bouge	-0.2958394
+-1.928311	gauche	-0.584239
+-1.922799	droit	-0.5883217
+-1.922799	droite	-0.5883217
+-1.922799	bas	-0.5883217
+-1.922799	haut	-0.5883217
+-1.692978	nav	-0.2958394
+-1.465883	tab	-0.3073407
+-2.115287	au	-0.2839721
+-2.115287	dessus	-0.4542252
+-2.115287	dessous	-0.4542252
+-2.416317	suivant	-0.2839722
+-2.433724	précédent	-0.2757045
+-2.391948	un	-0.2958394
+-2.391948	deux	-0.2958394
+-2.391948	trois	-0.2958394
+-2.391948	quatre	-0.2958394
+-2.391948	cinq	-0.2958394
+-2.391948	six	-0.2958394
+-2.391948	sept	-0.2958394
+-2.391948	huit	-0.2958394
+-2.391948	neuf	-0.2958394
+-2.391948	dix	-0.2958394
+
+\2-grams:
+-2.019649	<s> Test	-0.2519422
+-1.01473	<s> open	-0.2997264
+-1.01473	<s> ouvrir	-0.2997264
+-0.5376087	<s> ouvre	-0.5296374
+-2.019649	<s> ferme	-0.2519421
+-1.648992	<s> met	-0.2839721
+-1.950022	<s> sort	-0.2839721
+-0.9193869	<s> écran	-0.2958393
+-1.226683	<s> bouge	-0.2958394
+-1.905329	<s> bas	-0.2839722
+-1.905329	<s> haut	-0.2839722
+-1.226683	<s> nav	-0.2958394
+-0.9995879	<s> tab	-0.3073407
+-0.2135417	Test </s>
+-1.138665	open navigateur	-0.2997265
+-1.138665	open internet	-0.2997265
+-1.138665	open firefox	-0.2997265
+-1.138665	open terminal	-0.2997265
+-1.138665	open mail	-0.2997265
+-1.138665	open email	-0.2997265
+-1.138665	open courrier	-0.2997265
+-1.138665	open slack	-0.2997265
+-1.138665	ouvrir navigateur	-0.2997265
+-1.138665	ouvrir internet	-0.2997265
+-1.138665	ouvrir firefox	-0.2997265
+-1.138665	ouvrir terminal	-0.2997265
+-1.138665	ouvrir mail	-0.2997265
+-1.138665	ouvrir email	-0.2997265
+-1.138665	ouvrir courrier	-0.2997265
+-1.138665	ouvrir slack	-0.2997265
+-0.6114814	ouvre le	-0.2997264
+-0.6114814	ouvre l'	-0.2997264
+-1.450284	ouvre navigateur	-0.2997265
+-1.450284	ouvre internet	-0.2997265
+-1.450284	ouvre firefox	-0.2997265
+-1.450284	ouvre terminal	-0.2997265
+-1.450284	ouvre mail	-0.2997265
+-1.450284	ouvre email	-0.2997265
+-1.450284	ouvre courrier	-0.2997265
+-1.450284	ouvre slack	-0.2997265
+-1.138665	le navigateur	-0.2997265
+-1.138665	le internet	-0.2997265
+-1.138665	le firefox	-0.2997265
+-1.138665	le terminal	-0.2997265
+-1.138665	le mail	-0.2997265
+-1.138665	le email	-0.2997265
+-1.138665	le courrier	-0.2997265
+-1.138665	le slack	-0.2997265
+-1.138665	l' navigateur	-0.2997265
+-1.138665	l' internet	-0.2997265
+-1.138665	l' firefox	-0.2997265
+-1.138665	l' terminal	-0.2997265
+-1.138665	l' mail	-0.2997265
+-1.138665	l' email	-0.2997265
+-1.138665	l' courrier	-0.2997265
+-1.138665	l' slack	-0.2997265
+-0.05365299	navigateur </s>
+-0.05365299	internet </s>
+-0.05365299	firefox </s>
+-0.05365299	terminal </s>
+-0.05365299	mail </s>
+-0.05365299	email </s>
+-0.05365299	courrier </s>
+-0.05365299	slack </s>
+-0.3545813	ferme cette	-0.2519421
+-0.3545813	cette fenêtre	-0.2519422
+-0.2135417	fenêtre </s>
+-0.6162218	met en	-0.2839721
+-0.6091229	met pleine	-0.2839722
+-0.3134062	sort pleine	-0.2839722
+-0.3134062	en pleine	-0.2839722
+-0.1258177	pleine écran	-0.5762152
+-0.5836841	écran </s>
+-1.362684	écran un	-0.2958394
+-1.362684	écran deux	-0.2958394
+-1.362684	écran trois	-0.2958394
+-1.362684	écran quatre	-0.2958394
+-1.362684	écran cinq	-0.2958394
+-1.362684	écran six	-0.2958394
+-1.362684	écran sept	-0.2958394
+-1.362684	écran huit	-0.2958394
+-1.362684	écran neuf	-0.2958394
+-1.362684	écran dix	-0.2958394
+-0.9797799	bouge gauche	-0.2958394
+-0.9794641	bouge droit	-0.2958394
+-0.9794641	bouge droite	-0.2958394
+-0.9794641	bouge bas	-0.2958394
+-0.9794641	bouge haut	-0.2958394
+-0.08656557	gauche </s>
+-0.08567016	droit </s>
+-0.08567016	droite </s>
+-0.08567016	bas </s>
+-0.08567016	haut </s>
+-0.9797799	nav gauche	-0.2958394
+-0.9794641	nav droit	-0.2958394
+-0.9794641	nav droite	-0.2958394
+-0.9794641	nav bas	-0.2958394
+-0.9794641	nav haut	-0.2958394
+-1.218733	tab gauche	-0.2757045
+-1.202456	tab droit	-0.2839722
+-1.202456	tab droite	-0.2839722
+-0.9300151	tab au	-0.2839721
+-1.217296	tab dessus	-0.2839722
+-1.217296	tab dessous	-0.2839722
+-1.231045	tab suivant	-0.2839721
+-1.248452	tab précédent	-0.2757045
+-0.6126579	au dessus	-0.2839722
+-0.6126579	au dessous	-0.2839722
+-0.1213559	dessus </s>
+-0.1213559	dessous </s>
+-0.1943616	suivant </s>
+-0.1990987	précédent </s>
+-0.1878036	un </s>
+-0.1878036	deux </s>
+-0.1878036	trois </s>
+-0.1878036	quatre </s>
+-0.1878036	cinq </s>
+-0.1878036	six </s>
+-0.1878036	sept </s>
+-0.1878036	huit </s>
+-0.1878036	neuf </s>
+-0.1878036	dix </s>
+
+\3-grams:
+-0.1064857	<s> Test </s>
+-1.005442	<s> open navigateur
+-1.005442	<s> open internet
+-1.005442	<s> open firefox
+-1.005442	<s> open terminal
+-1.005442	<s> open mail
+-1.005442	<s> open email
+-1.005442	<s> open courrier
+-1.005442	<s> open slack
+-1.005442	<s> ouvrir navigateur
+-1.005442	<s> ouvrir internet
+-1.005442	<s> ouvrir firefox
+-1.005442	<s> ouvrir terminal
+-1.005442	<s> ouvrir mail
+-1.005442	<s> ouvrir email
+-1.005442	<s> ouvrir courrier
+-1.005442	<s> ouvrir slack
+-0.512671	<s> ouvre le
+-0.512671	<s> ouvre l'
+-1.399759	<s> ouvre navigateur
+-1.399759	<s> ouvre internet
+-1.399759	<s> ouvre firefox
+-1.399759	<s> ouvre terminal
+-1.399759	<s> ouvre mail
+-1.399759	<s> ouvre email
+-1.399759	<s> ouvre courrier
+-1.399759	<s> ouvre slack
+-0.1626568	<s> ferme cette
+-0.4367306	<s> met en
+-0.4342756	<s> met pleine
+-0.1350856	<s> sort pleine
+-1.1466	<s> écran un
+-1.1466	<s> écran deux
+-1.1466	<s> écran trois
+-1.1466	<s> écran quatre
+-1.1466	<s> écran cinq
+-1.1466	<s> écran six
+-1.1466	<s> écran sept
+-1.1466	<s> écran huit
+-1.1466	<s> écran neuf
+-1.1466	<s> écran dix
+-0.8186983	<s> bouge gauche
+-0.818588	<s> bouge droit
+-0.818588	<s> bouge droite
+-0.818588	<s> bouge bas
+-0.818588	<s> bouge haut
+-0.04243981	<s> bas </s>
+-0.04243981	<s> haut </s>
+-0.8186983	<s> nav gauche
+-0.818588	<s> nav droit
+-0.818588	<s> nav droite
+-0.818588	<s> nav bas
+-0.818588	<s> nav haut
+-1.073658	<s> tab gauche
+-1.05665	<s> tab droit
+-1.05665	<s> tab droite
+-0.7654773	<s> tab au
+-1.06182	<s> tab dessus
+-1.06182	<s> tab dessous
+-1.066507	<s> tab suivant
+-1.083914	<s> tab précédent
+-0.02607903	open navigateur </s>
+-0.02607903	open internet </s>
+-0.02607903	open firefox </s>
+-0.02607903	open terminal </s>
+-0.02607903	open mail </s>
+-0.02607903	open email </s>
+-0.02607903	open courrier </s>
+-0.02607903	open slack </s>
+-0.02607903	ouvrir navigateur </s>
+-0.02607903	ouvrir internet </s>
+-0.02607903	ouvrir firefox </s>
+-0.02607903	ouvrir terminal </s>
+-0.02607903	ouvrir mail </s>
+-0.02607903	ouvrir email </s>
+-0.02607903	ouvrir courrier </s>
+-0.02607903	ouvrir slack </s>
+-1.005442	ouvre le navigateur
+-1.005442	ouvre le internet
+-1.005442	ouvre le firefox
+-1.005442	ouvre le terminal
+-1.005442	ouvre le mail
+-1.005442	ouvre le email
+-1.005442	ouvre le courrier
+-1.005442	ouvre le slack
+-1.005442	ouvre l' navigateur
+-1.005442	ouvre l' internet
+-1.005442	ouvre l' firefox
+-1.005442	ouvre l' terminal
+-1.005442	ouvre l' mail
+-1.005442	ouvre l' email
+-1.005442	ouvre l' courrier
+-1.005442	ouvre l' slack
+-0.02607903	ouvre navigateur </s>
+-0.02607903	ouvre internet </s>
+-0.02607903	ouvre firefox </s>
+-0.02607903	ouvre terminal </s>
+-0.02607903	ouvre mail </s>
+-0.02607903	ouvre email </s>
+-0.02607903	ouvre courrier </s>
+-0.02607903	ouvre slack </s>
+-0.02607903	le navigateur </s>
+-0.02607903	le internet </s>
+-0.02607903	le firefox </s>
+-0.02607903	le terminal </s>
+-0.02607903	le mail </s>
+-0.02607903	le email </s>
+-0.02607903	le courrier </s>
+-0.02607903	le slack </s>
+-0.02607903	l' navigateur </s>
+-0.02607903	l' internet </s>
+-0.02607903	l' firefox </s>
+-0.02607903	l' terminal </s>
+-0.02607903	l' mail </s>
+-0.02607903	l' email </s>
+-0.02607903	l' courrier </s>
+-0.02607903	l' slack </s>
+-0.1626568	ferme cette fenêtre
+-0.1064857	cette fenêtre </s>
+-0.1350856	met en pleine
+-0.06087824	met pleine écran
+-0.06087824	sort pleine écran
+-0.06087824	en pleine écran
+-0.09481413	pleine écran </s>
+-0.08494152	écran un </s>
+-0.08494152	écran deux </s>
+-0.08494152	écran trois </s>
+-0.08494152	écran quatre </s>
+-0.08494152	écran cinq </s>
+-0.08494152	écran six </s>
+-0.08494152	écran sept </s>
+-0.08494152	écran huit </s>
+-0.08494152	écran neuf </s>
+-0.08494152	écran dix </s>
+-0.04164852	bouge gauche </s>
+-0.04123972	bouge droit </s>
+-0.04123972	bouge droite </s>
+-0.04123972	bouge bas </s>
+-0.04123972	bouge haut </s>
+-0.04164852	nav gauche </s>
+-0.04123972	nav droit </s>
+-0.04123972	nav droite </s>
+-0.04123972	nav bas </s>
+-0.04123972	nav haut </s>
+-0.04372774	tab gauche </s>
+-0.04243981	tab droit </s>
+-0.04243981	tab droite </s>
+-0.4355014	tab au dessus
+-0.4355014	tab au dessous
+-0.05887454	tab dessus </s>
+-0.05887454	tab dessous </s>
+-0.09024364	tab suivant </s>
+-0.09415379	tab précédent </s>
+-0.05887454	au dessus </s>
+-0.05887454	au dessous </s>
+
+\end\
